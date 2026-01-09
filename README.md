@@ -1,5 +1,5 @@
 📡 ChatJMS — Chat Distribuído com Java JMS
-📌 Descrição do Projeto
+
 
 O ChatJMS é um sistema de chat distribuído desenvolvido em Java, utilizando JMS (Java Message Service) em conjunto com o Apache ActiveMQ como broker de mensagens.
 O projeto tem como objetivo demonstrar o funcionamento da comunicação assíncrona em sistemas distribuídos, permitindo a troca de mensagens entre múltiplos usuários em tempo real.
